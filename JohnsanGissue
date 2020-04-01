@@ -1,0 +1,5 @@
+plugin ver: 1.26.0
+paper ver: git-Paper-"a555321"
+plugins that may conflict: Universes; Essentials
+reproduce
+both worlds set to creative, race starts with either sign or cmd, player joins through command, teleports to sign, completes race and stays there with no inv.
